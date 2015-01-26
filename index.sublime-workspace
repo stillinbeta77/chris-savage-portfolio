@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1853,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2727,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Karma Clone</title>\n	<link rel=\"stylesheet\" href=\"css/style.css\">\n	<link href='//fonts.googleapis.com/css?family=Roboto:400,500,300' rel='stylesheet' type='text/css'>\n<link href=\"//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n<link rel=\"icon\" type=\"image/png\" href=\"favicon.ico\" />\n</head>\n<body>\n<header class=\"masthead\">\n	<nav class=\"top-navigation\">\n		<div class=\"content\">\n			<ul class=\"links\">\n				<li class=\"active\"><a href=\"\">Meet Karma</a></li>\n				<li><a href=\"\">How it Works</a></li>\n				<li><a href=\"\">Store</a></li>\n				<li><a href=\"\">Blog</a></li>\n				<li><a href=\"\">Help</a></li>\n				<li><a href=\"\">Login</a></li>\n			</ul>\n			<img class=\"logo\" src=\"images/karma-logo.svg\" alt=\"Logo Image\" width=\"26px\">\n		</div>\n	</nav>\n</header>\n\n\n\n<section class=\"introduction\">\n	<div class=\"content\">\n		<h1>Introducing Karma</h1>\n		<h3>Bring WiFi with you, everywhere you go.</h3>\n		<div class=\"buttons\">\n			<button>Learn More</button>\n		</div>\n	</div>\n</section>\n<section class=\"cases\">\n	<div class=\"content\">\n		<h2>Everyone needs a little Karma.</h2>\n		<ul class=\"devices\">\n			<li>\n				<img class=\"icon\"><img width=\"127px\" height=\"127px\" src=\"images/icon-devices.svg\"><div class=\"caption\"><h3>Internet for all devices</h3></div></li>\n			<li>\n				<img class=\"icon\"><img width=\"127px\" height=\"127px\" src=\"images/icon-coffee.svg\"><div class=\"caption\"><h3>Boost your productivity</h3></div></li>\n			<li>\n				<img class=\"icon\"><img width=\"127px\" height=\"127px\" src=\"images/icon-refill.svg\"><div class=\"caption\"><h3>Pay as you go</h3></div></li>\n		</ul>\n	</div>\n</section>\n<footer class=\"social\">\n	<div class=\"content\">\n	<hr />\n	<h5>Join us on</h5>\n	<ul class=\"icons\">\n		<li class=\"twitter\"><i class=\"fa fa-twitter\"></i></li>\n		<li class=\"facebook\"><i class=\"fa fa-facebook\"></i></li>\n		<li class=\"instagram\"><i class=\"fa fa-instagram\"></i></li>\n	</ul>\n	<span class=\"copy\">&copy; Karma Mobility, Inc.</span>\n	</div>\n</footer>\n	\n</body>\n</html>",
+			"file": "/C/Users/Owner/savage/Projects/startup-landing-page-clone/index.html",
+			"file_size": 2112,
+			"file_write_time": 130667649094207096,
+			"settings":
+			{
+				"buffer_size": 2053,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Owner/savage/Projects/startup-landing-page-clone/css/style.css",
+			"settings":
+			{
+				"buffer_size": 4620,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"Install package",
+			"Install Package",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Owner/savage/Projects/chris-savage-portfolio",
+		"/C/Users/Owner/savage/Projects/chris-savage-portfolio/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Owner/savage/Projects/startup-landing-page-clone/css/style.css",
+		"/C/Users/Owner/savage/Projects/startup-landing-page-clone/index.html",
+		"/C/Users/Owner/savage/Projects/chris-savage-portfolio/css/style.css",
+		"/C/Users/Owner/savage/Projects/chris-savage-portfolio/index.html",
+		"/C/Users/Owner/Desktop/HTML 5/Ex_Files_HTML5_Structure/Exercise Files/Chapter_02/02_03/html5.htm",
+		"/C/Users/Owner/Desktop/HTML 5/Ex_Files_HTML5_Structure/Exercise Files/Chapter_02/02_02/xhtml.htm",
+		"/C/Users/Owner/Desktop/HTML 5/Ex_Files_HTML5_Structure/Exercise Files/Chapter_02/02_02/html5.htm",
+		"/C/Users/Owner/Desktop/HTML 5/Ex_Files_HTML5_Structure/Exercise Files/Chapter_01/01_03/html5_2.htm",
+		"/C/Users/Owner/savage/Projects/startup-landing-page-clone/images/karma-logo.svg",
+		"/C/Users/Owner/savage/Projects/startup-landing-page-clone/basic.html",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Owner/savage/Projects/first-site/freshprince.html",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/C/Users/Owner/Desktop/emmet.html",
+		"/C/Users/Owner/savage/Projects/charm/stylesheet test.css",
+		"/C/Users/Owner/savage/Projects/charm/Testing 123.html",
+		"/C/Users/Owner/Desktop/Projects/first-site/mystyle.css",
+		"/C/Users/Owner/Desktop/Projects/first-site/freshprince.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1837,
+								1837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2727,
+								2727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Owner/savage/Projects/startup-landing-page-clone/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								861,
+								1077
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Owner/savage/Projects/startup-landing-page-clone/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1395,
+								1310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

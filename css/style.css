@@ -1,0 +1,136 @@
+/* Paul Irish Box-Sizing: Border-Box reset - apply a natural box layout model to all elements, but allowing components to change http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+/*------------------------Begin Styles---------------------------*/
+
+
+body {
+  /*----Typography Declarations----*/
+  color: #222222;
+  font-size: 1em;
+  font-family: 'Lato', "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*------------------------Header---------------------------*/
+
+.masthead {
+	width: 80%;
+}
+
+.nav-content {
+	background-color: #0b7eb2;
+	padding: 1.5rem;
+	margin: 0 auto;
+	color: #fff;
+	min-width: 37.5rem;
+}
+
+.masthead-intro, .introduction h1 {
+	font-size: 4em;
+	font-family: 'Lustria', "Helvetica Neue", sans-serif;
+}
+
+.top-navigation {
+	position: fixed;
+	width: 100%;
+	border-bottom: 1px solid #DDD;
+}
+
+.top-navigation .links {
+	float: right;
+	color: #838994;
+	font-size: 1.75em;
+	margin-top: 1.7rem;
+}
+
+.top-navigation .links li {
+	display: inline-block;
+	margin-left: 1.563rem;
+	color: #fff;
+}
+
+
+/*------------------------Intro---------------------------*/
+
+.introduction {
+	background-image: url('../images/intro-background.jpg');
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 25.938rem;
+	overflow: auto;
+}
+
+.introduction h1 {
+	color: white;
+    text-align: center;
+    font-weight: 300;
+}
+
+.introduction h1 {
+    margin-top: 17.5rem;
+    font-weight: bold;
+  	font-size: 5em;
+  	text-transform: uppercase;
+  	text-shadow: 1px 1px 1px #000;
+}
+
+
+kdjfksdjfkj
