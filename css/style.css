@@ -153,36 +153,47 @@ body {
 
 
 .contact .icons > li {
-	border-radius: 5.25rem;
-	width: 5.5rem;
-	height: 5.5rem;
+	border-radius: 3.25rem;
+	width: 4.5rem;
+	height: 4.5rem;
 	display: inline-block;
 	margin: 1.25rem 2.25rem;
 	border: 1px solid #eaebec;
 	padding: 0.625rem;
 	text-align: center;
-	font-size: 3.5em;
+	font-size: 2.75rem;
 }
 
 
 
-.contact .email {
+.contact .email a {
 	color: #000;
 }
 
-.contact .twitter {
+.contact .email a:hover,
+.contact .twitter a:hover,
+.contact .github a:hover  {
+	color: red;
+}
+
+.contact .twitter a {
  	color: #55acee;
 }
 
-.contact .google {
+.contact .google a {
 	color: #D84B37;
 }
 
-.contact .github {
-	color: #9CDAF0;
+.contact .google a:hover {
+	color: #000;
 }
 
-.contact .icons > li:hover {
+
+.contact .github a {
+	color: #000;
+}
+
+.contact .icons > li a:hover {
 	cursor: pointer;
 }
 
