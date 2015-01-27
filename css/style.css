@@ -125,11 +125,54 @@ body {
 }
 
 .introduction h1 {
-    margin-top: 20.5rem;
+    margin-top: 16.5rem;
     font-weight: bold;
   	font-size: 5em;
   	text-transform: uppercase;
   	text-shadow: 1px 1px 1px #000;
+}
+
+/*------------------------Projects--------------------------*/
+
+.projects-color {
+	background-color: #10b4ff;
+	padding: 1.5rem;
+	margin: 0 auto;
+	color: #fff;
+	min-width: 37.5rem;
+	border-bottom: 1px solid #DDD;
+	text-align: center;
+}
+
+.projects {
+	background-color: #fff;
+	padding-bottom: 5rem;
+	overflow: hidden;
+}
+
+.projects .content {
+    margin-top: 2.875rem;
+    padding: none;
+    color: #1d1e21;
+    text-align: center;
+}
+
+.projects .project-img > li {
+	width: 33.3333333%;
+	float: left;
+
+}
+
+.work {
+	border: 5px solid #c1c1c1;
+}
+
+
+
+.projects .caption h3 {
+	margin: 2.5rem 0px 1.875rem;
+	font-size: 1.563rem;
+	font-weight: 400;
 }
 
 
@@ -140,6 +183,7 @@ body {
 	padding-bottom: 1.5rem 0;
 	width: 100%;
 	text-align: center;
+	border-bottom: 2rem solid #000;
 }
 
 .contact-color {
@@ -163,8 +207,6 @@ body {
 	text-align: center;
 	font-size: 2.75rem;
 }
-
-
 
 .contact .email a {
 	color: #000;
@@ -195,29 +237,4 @@ body {
 
 .contact .icons > li a:hover {
 	cursor: pointer;
-}
-
-
-
-/*------------------------Projects--------------------------*/
-
-.projects-color {
-	background-color: #10b4ff;
-	padding: 1.5rem;
-	margin: 0 auto;
-	color: #fff;
-	min-width: 37.5rem;
-	border-bottom: 1px solid #DDD;
-}
-
-
-/*------------------------About--------------------------*/
-
-.about-color {
-	background-color: #b26100;
-	padding: 1.5rem;
-	margin: 0 auto;
-	color: #fff;
-	min-width: 37.5rem;
-	border-bottom: 1px solid #DDD;
 }
